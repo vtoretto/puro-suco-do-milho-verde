@@ -10,4 +10,4 @@
 # +----------------------------------------------+
 
 cd "$(dirname "$(readlink -f "$0")")"
-echo "Você está no diretório $PWD"
+printf "Vc está no diretório %s\n" "$PWD"
