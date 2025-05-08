@@ -8,7 +8,7 @@
 # |              Est. 2025                       |
 # +----------------------------------------------+
 
-whom="cuzaum"
+whom="rapah"
 printf "Salve, %s\n" "$whom"
 
 printf "Salve, %s\n" "$1"
