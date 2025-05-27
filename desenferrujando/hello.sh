@@ -1,11 +1,12 @@
 #!/bin/bash
 # +----------------------------------------------+
 # |                                              |
-# |      Don Vito's Official BASH Script™️        |
+# |      Don Vito's Official BASH Script         |
 # |                                              |
-# |    "Respect the script. Follow the code."    |
+# |     "I’ll make you a script you can’t        |
+# |                  refuse"                     |
 # |                                              |
-# |              Est. 2025                       |
+# |                 Est. 2025                    |
 # +----------------------------------------------+
 
 whom="rapah"

@@ -1,7 +1,7 @@
 #!/bin/bash
 # +----------------------------------------------+
 # |                                              |
-# |      Don Vito's Official BASH Script™️        |
+# |      Don Vito's Official BASH Script         |
 # |                                              |
 # |    "Respect the script. Follow the code."    |
 # |                                              |
